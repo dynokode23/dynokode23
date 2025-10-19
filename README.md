@@ -1,3 +1,4 @@
+<img src="logo.png" alt="DynoKode Banner">
 # 🚀 DynoKode
 
 ### Building smart digital solutions for students, small businesses, and startups.
