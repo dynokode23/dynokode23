@@ -25,7 +25,6 @@
 |----------|--------------|
 | 🧾 *Budget Advisor* | AI-driven personal finance tracker |
 | 🛡 *Fraud Shield* | Django-based financial fraud detection system |
-| 🎓 *Smart College Hub* | Event management + ML-powered feedback system |
 
 ---
 
