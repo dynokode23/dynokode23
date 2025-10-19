@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🚀 DynoKode
 
-<!--
-**dynokode23/dynokode23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building smart digital solutions for students, small businesses, and startups.
 
-Here are some ideas to get you started:
+💻 Web & App Development | 🤖 AI-Powered Tools | 📊 Automation & Analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What We Do
+- *Web Applications:* Modern, responsive sites using React, Django, and Node.js  
+- *Mobile Apps:* Lightweight, student-friendly Android solutions  
+- *AI Tools:* Intelligent systems for automation and data-driven insights  
+
+---
+
+### 🏗 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,python,django,mongodb,git,github,vercel" />
+</p>
+
+---
+
+### 📈 Projects
+| Project | Description |
+|----------|--------------|
+| 🧾 *Budget Advisor* | AI-driven personal finance tracker |
+| 🛡 *Fraud Shield* | Django-based financial fraud detection system |
+| 🎓 *Smart College Hub* | Event management + ML-powered feedback system |
+
+---
+
+### 💬 Connect With Us
+📧 *dynokode@gmail.com*  
+🌐 [dynokode.github.io](https://dynokode.github.io)
+
+---
+
+> 💡 “We code ideas into digital reality.”
