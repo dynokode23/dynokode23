@@ -1,5 +1,4 @@
-<img src="logo.png" alt="DynoKode Banner">
-# 🚀 DynoKode
+# <img src="logo.png" alt="DynoKode Banner" height="50px" width="50"> DynoKode 
 
 ### Building smart digital solutions for students, small businesses, and startups.
 
