@@ -1,4 +1,4 @@
-# <img src="logo.png" alt="DynoKode Banner" height="20px" width="50">  DynoKode 
+# <img src="logo.png" alt="DynoKode Banner" height="37px" width="60">  DynoKode 
 
 ### Building smart digital solutions for students, small businesses, and startups.
 
