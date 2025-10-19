@@ -30,7 +30,8 @@
 
 ### 💬 Connect With Us
 📧 *dynokode@gmail.com*  
-🌐 [dynokode.github.io](https://dynokode.github.io)
+🌐 [dynokode.github.io](https://dynokode.github.io)  
+📸 [@dynokode](https://instagram.com/dynokode)
 
 ---
 
